@@ -1,0 +1,26 @@
+{
+    "name": "Darker+",
+    "version": "0.0.1",
+    "displayName": "Darker+",
+    "description": "A darker version of the VS Code default dark theme",
+    "publisher": "daylerees",
+    "repository": "https://github.com/prOttonifFusion/darker-plus",
+    "license": "MIT",
+    "icon": "icon.png",
+    "keywords": ["dark"],
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darker+",
+                "uiTheme": "vs-dark",
+                "path": "./darker_plus.json"
+            }
+        ]
+    }
+}
