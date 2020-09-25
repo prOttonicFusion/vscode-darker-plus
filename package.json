@@ -3,8 +3,11 @@
     "version": "0.0.1",
     "displayName": "Darker+",
     "description": "A darker version of the VS Code default dark theme",
-    "publisher": "daylerees",
-    "repository": "https://github.com/prOttonifFusion/vscode-darker-plus",
+    "publisher": "prOttonicFusion",
+    "repository": {
+	"type": "git",
+        "url": "https://github.com/prOttonifFusion/vscode-darker-plus"
+    },
     "license": "MIT",
     "icon": "icon.png",
     "keywords": ["dark"],
