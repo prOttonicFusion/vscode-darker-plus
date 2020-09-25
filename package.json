@@ -19,7 +19,7 @@
             {
                 "label": "Darker+",
                 "uiTheme": "vs-dark",
-                "path": "./darker_plus.json"
+                "path": "./themes/darker_plus.json"
             }
         ]
     }
