@@ -6,7 +6,7 @@
     "publisher": "prOttonicFusion",
     "repository": {
 	"type": "git",
-        "url": "https://github.com/prOttonifFusion/vscode-darker-plus"
+        "url": "https://github.com/prOttonicFusion/vscode-darker-plus.git"
     },
     "license": "MIT",
     "icon": "icon.png",
