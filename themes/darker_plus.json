@@ -17,6 +17,8 @@
 		"focusBorder": "#0074b8",
 		"input.placeholderForeground": "#A6A6A6",
 		"list.dropBackground": "#333638",
+		"list.activeSelectionBackground": "#0074b888",
+		"list.inactiveSelectionBackground": "#0074b840",
 		"menu.background": "#252526",
 		"menu.foreground": "#CCCCCC",
 		"panelTitle.activeBorder":"#0074b8",
