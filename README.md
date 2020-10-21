@@ -1,5 +1,5 @@
 # Darker+
-A darker version of the default dark theme for VS Code, with some more blue thrown in.
+A darker version of the default dark theme for Visual Studio Code, with some additional blue thrown in.
 
 <img src="https://raw.githubusercontent.com/prOttonicFusion/vscode-darker-plus/master/screenshot.png" alt="screenshot" height="300px">
 
