@@ -2,7 +2,7 @@
     "name": "Darker+",
     "version": "0.0.1",
     "displayName": "Darker+",
-    "description": "A darker version of the VS Code default dark theme",
+    "description": "A darker version of the VS Code default dark theme, with some more blue thrown in",
     "publisher": "prOttonicFusion",
     "repository": {
 	"type": "git",
@@ -10,7 +10,7 @@
     },
     "license": "MIT",
     "icon": "icon.png",
-    "keywords": ["dark"],
+    "keywords": ["dark", "darker"],
     "engines": {
         "vscode": "^1.13.0"
     },
